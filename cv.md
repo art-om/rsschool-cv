@@ -39,7 +39,7 @@ function lifeInWeeks(age) {
 
 # Work experience
 
-I am fond of music, previously worked as a sound engineer, had experience in testing the site, administration on wordpress, layout by video tutorials on YouTube.
+I am fond of music, previously worked as a sound engineer, had experience in testing the site, administration on wordpress, layout by video tutorials on YouTube. I also have experience as a system administrator
 
 # Languages
 
